@@ -1,0 +1,1 @@
+export { TabPaneWrapperSection } from "./TabPaneWrapperSection";
